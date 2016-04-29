@@ -1,6 +1,6 @@
 == README
 
-Splurty README
+THE Splurty README
 
 Things you may want to cover:
 
